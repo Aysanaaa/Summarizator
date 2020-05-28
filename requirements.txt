@@ -1,0 +1,9 @@
+nltk
+torch
+pytorch_transformers
+transformers
+tensorflow_hub==0.6.0
+tf_sentencepiece==0.1.86
+#tensorflow==2.2.0rc3
+spacy
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
